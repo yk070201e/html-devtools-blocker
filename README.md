@@ -19,4 +19,4 @@
 
 ```html
 <!-- 로컬 스크립트 연결 -->
-<script src="disable-devtools.js"></script>
+<script src="script.js"></script>
